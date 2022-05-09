@@ -1,3 +1,4 @@
+%%This code is used to train and validate the CNN network
 digitDatasetPath = fullfile('.') 
 imds = imageDatastore(digitDatasetPath, ...
     'IncludeSubfolders',true,'LabelSource','foldernames');
