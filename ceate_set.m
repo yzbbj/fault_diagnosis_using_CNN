@@ -1,4 +1,4 @@
-%This code is used to generate train%validation set
+%This code is used to generate train and validation set
 folder_name1 = 'set1_inner';
 folder_name2 = 'set2_normal';
 folder_name3 = 'set3_outer';
